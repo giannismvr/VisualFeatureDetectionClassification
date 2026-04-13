@@ -1,0 +1,25 @@
+# Project data
+Data/
+
+# JetBrains / PyCharm
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Editor/OS temp files
+*.swp
+*.swo
+*~
+
